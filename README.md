@@ -33,7 +33,7 @@ Some of my solutions so far includes detect cardiovascular diseases and detect b
 
 **Data Processing and Analysis:** Python, VBA
 
-**Machine Learning Modeling:** Classification, Regression.
+**Machine Learning Modeling:** Classification, Regression
 
 **Machine Learning Deployment:** Heroku, Google Cloud
 

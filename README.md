@@ -7,7 +7,7 @@ This data science/analysis project portfolio purpose is to create business solut
 </p>
 
 
-# Pedro Henrique Franco Fratucci
+# About me
 **Personal life**
 
 As my bio says, I live a truly happy life. Sharing it with my family, girlfriend, friends and cats.

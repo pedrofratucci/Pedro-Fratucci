@@ -38,7 +38,7 @@ Some of my solutions so far includes detect cardiovascular diseases and detect b
 **Machine Learning Deployment:** Heroku, Google Cloud
 
 
-## Data Science Projects:
+# Data Science Projects:
 
 ### [Cardiovascular Disease Prediction](https://github.com/pedrofratucci/cardio_catch_diseases_webapp)
 

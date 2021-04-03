@@ -8,12 +8,12 @@ This data science/analysis project portfolio purpose is to create business solut
 
 
 # Pedro Henrique Franco Fratucci
-<sub> *Personal life* </sub>
+**Personal life**
 
 As my bio says, I live a truly happy life. Sharing it with my family, girlfriend, friends and cats.
 
 
-<sub> *Professional career* </sub>
+**Professional career**
 
 I'm a mechanical engineer graduated from UFRGS in 2020. I've been programming since 2017. 
 
@@ -31,7 +31,7 @@ Some of my solutions so far includes detect cardiovascular diseases and detect b
 
 **Data Collect and Storage:** SQL
 
-**Data Processing and Analysis:** Python,VBA
+**Data Processing and Analysis:** Python, VBA
 
 **Machine Learning Modeling:** Classification, Regression.
 

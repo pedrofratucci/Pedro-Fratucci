@@ -24,7 +24,7 @@ Some of my solutions so far includes detect cardiovascular diseases and detect b
 
 **Contact:**
 * [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-henrique-fratucci-906a94172/)](https://www.linkedin.com/in/pedro-henrique-fratucci-906a94172/)
-* [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:pedrofratucci8@hotmail.com)](pedrofratucci8@hotmail.com)
+* [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:pedrofratucci8@hotmail.com)](mailto:pedrofratucci8@hotmail.com)
 
 
 # Analytical Tools
@@ -44,4 +44,4 @@ Some of my solutions so far includes detect cardiovascular diseases and detect b
 
 In this project, I developed a Machine Learning model able to detect disease in early stages with **73% accuracy**, over 70k patience.
 
-This model performance **would increase a company test profit from R$ 500,00 to R$ 1583,56.** And would substitute a manual process by a machine learning model.
+This model performance, in the best case scenario, **would increase a company test profit from R$ 500,00 to R$ 1583,56.** And would substitute a manual process by a machine learning model.

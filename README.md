@@ -29,19 +29,102 @@ Some of my solutions so far includes detect cardiovascular diseases and detect b
 
 # Analytical Tools
 
-**Data Collect and Storage:** SQL
+**Data Collect and Storage:** MySQL, Postgres.
 
 **Data Processing and Analysis:** Python, VBA
 
-**Machine Learning Modeling:** Classification, Regression
+**Data Vizualization:** Power BI, Matplotlib, Seaborn
 
-**Machine Learning Deployment:** Heroku, Google Cloud
+**Machine Learning Modeling:** Classification, Regression, Clustering, Times Series
+
+**Machine Learning Deployment:** Heroku, Google Cloud Plataform
 
 
 # Data Science Projects
 
 ### [Cardiovascular Disease Prediction](https://github.com/pedrofratucci/cardio_catch_diseases_webapp)
 
-In this project, I developed a Machine Learning model able to detect disease in early stages with **74,60% accuracy**, over 70k patience.
+In this project, I developed a Machine Learning model able to detect disease in early stages with **74,75% precision**, over 70k patience.
 
 This model performance, in the best case scenario, **would increase a company test profit from R$ 500,00 to R$ 2500,00.** And would substitute a manual process by a machine learning model.
+
+### [Bank Fraud Transactions Prediction](https://github.com/pedrofratucci/cardio_catch_diseases_webapp)
+
+In this project, I developed a Machine Learning model able to detect fraudulent transaction with **95,91% recall** and **97,39% precision**, over 6.3kk transactions.
+
+This model performance, in the best case scenario, **would create a company revenue of $ 126,908,241.73**
+
+
+# Tools
+
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>Python</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Python</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Power BI</span><br><br>
+        <img height="64px" src="https://uploaddeimagens.com.br/images/002/851/738/full/powerbi_logo.png?1598489763">
+      </td>
+      <td width="25%" align="center">
+        <span>Heroku</span><br><br>
+        <img height="64px" src="https://blog.4linux.com.br/wp-content/uploads/2018/01/Heroku.png">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>Matplotlib</span><br><br>
+        <img height="64px" src="https://matplotlib.org/_images/sphx_glr_logos2_001.png">
+      </td>
+      <td width="25%" align="center">
+        <span>seaborn</span><br><br>
+        <img height="64px" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>scikit-learn</span><br><br>
+        <img height="64px" src="https://scikit-learn.org/stable/_images/scikit-learn-logo-notext.png">
+      </td>
+      <td width="25%" align="center">
+        <span>SciPy</span><br><br>
+        <img height="64px" src="https://bids.berkeley.edu/sites/default/files/styles/450x254/public/projects/scipy_logo_450x254.png?itok=kcdZBxrP">
+      </td>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>statsmodels</span><br><br>
+        <img height="64px" src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Apache Spark</span><br><br>
+        <img height="64px" src="https://spark.apache.org/images/spark-logo-trademark.png">
+      </td>
+      <td width="25%" align="center">
+        <span>Pandas</span><br><br>
+        <img height="64px" src="https://pandas.pydata.org/static/img/pandas.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Tableau</span><br><br>
+        <img height="47px" src="https://www.tableau.com/themes/custom/tableau_www/logo.png">
+      </td>
+    </tr>
+    <tr valign="top">
+    <td width="25%" align="center">
+        <span>Flask</span><br><br>
+        <img height="64px" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png">
+      </td>
+      <td width="25%" align="center">
+        <span>Numpy</span><br><br>
+        <img height="64px" src="https://numpy.org/images/logos/numpy.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Streamlit</span><br><br>
+        <img height="64px" src="https://assets.website-files.com/5dc3b47ddc6c0c2a1af74ad0/5e18182ad27bcfbb9dff263a_RGB_Logo_Horizontal_Color_Light_Bg-p-1080.png">
+      </td>
+    </tr>
+  </tbody>
+</table>

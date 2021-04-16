@@ -32,7 +32,7 @@ This model performance, in the best case scenario, **would increase a company te
 
 In this project, I developed a Machine Learning model able to detect fraudulent transaction with **95,91% recall** and **97,39% precision**, over 6.3kk transactions.
 
-This model performance, in the best case scenario, **would create a company revenue of $ 126,908,241.73**
+This model performance, in the best case scenario, **would create a company revenue of $ 126,908,241.73.**
 
 
 # Analytical Tools
@@ -59,33 +59,33 @@ This model performance, in the best case scenario, **would create a company reve
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>Matplotlib</span><br><br>
-        <img height="64px" src="https://matplotlib.org/_images/sphx_glr_logos2_001.png">
+        <span>Pandas</span><br><br>
+        <img height="64px" src="https://pandas.pydata.org/static/img/pandas.svg">
       </td>
       <td width="25%" align="center">
-        <span>seaborn</span><br><br>
-        <img height="64px" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg">
+        <span>Numpy</span><br><br>
+        <img height="64px" src="https://numpy.org/images/logos/numpy.svg">
       </td>
       <td width="25%" align="center">
         <span>scikit-learn</span><br><br>
         <img height="64px" src="https://scikit-learn.org/stable/_images/scikit-learn-logo-notext.png">
       </td>
       <td width="25%" align="center">
-        <span>SciPy</span><br><br>
-        <img height="64px" src="https://bids.berkeley.edu/sites/default/files/styles/450x254/public/projects/scipy_logo_450x254.png?itok=kcdZBxrP">
+        <span>statsmodels</span><br><br>
+        <img height="64px" src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2.svg">
       </td>
     <tr valign="top">
       <td width="25%" align="center">
         <span>statsmodels</span><br><br>
-        <img height="64px" src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2.svg">
+        <img height="64px" src="">
       </td>
       <td width="25%" align="center">
         <span>Apache Spark</span><br><br>
         <img height="64px" src="https://spark.apache.org/images/spark-logo-trademark.png">
       </td>
       <td width="25%" align="center">
-        <span>Pandas</span><br><br>
-        <img height="64px" src="https://pandas.pydata.org/static/img/pandas.svg">
+        <span>Matplotlib</span><br><br>
+        <img height="64px" src="https://matplotlib.org/_images/sphx_glr_logos2_001.png">
       </td>
       <td width="25%" align="center">
         <span>Tableau</span><br><br>
@@ -98,8 +98,8 @@ This model performance, in the best case scenario, **would create a company reve
         <img height="64px" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png">
       </td>
       <td width="25%" align="center">
-        <span>Numpy</span><br><br>
-        <img height="64px" src="https://numpy.org/images/logos/numpy.svg">
+        <span>Seaborn</span><br><br>
+        <img height="64px" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg">
       </td>
       <td width="25%" align="center">
         <span>Streamlit</span><br><br>

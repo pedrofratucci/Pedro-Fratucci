@@ -76,35 +76,21 @@ This model performance, in the best case scenario, **would create a company reve
       </td>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>statsmodels</span><br><br>
-        <img height="64px" src="">
-      </td>
-      <td width="25%" align="center">
-        <span>Apache Spark</span><br><br>
-        <img height="64px" src="https://spark.apache.org/images/spark-logo-trademark.png">
-      </td>
-      <td width="25%" align="center">
         <span>Matplotlib</span><br><br>
         <img height="64px" src="https://matplotlib.org/_images/sphx_glr_logos2_001.png">
-      </td>
-      <td width="25%" align="center">
-        <span>Tableau</span><br><br>
-        <img height="47px" src="https://www.tableau.com/themes/custom/tableau_www/logo.png">
-      </td>
-    </tr>
-    <tr valign="top">
-    <td width="25%" align="center">
-        <span>Flask</span><br><br>
-        <img height="64px" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png">
       </td>
       <td width="25%" align="center">
         <span>Seaborn</span><br><br>
         <img height="64px" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg">
       </td>
       <td width="25%" align="center">
-        <span>Streamlit</span><br><br>
-        <img height="64px" src="https://assets.website-files.com/5dc3b47ddc6c0c2a1af74ad0/5e18182ad27bcfbb9dff263a_RGB_Logo_Horizontal_Color_Light_Bg-p-1080.png">
+        <span>Flask</span><br><br>
+        <img height="64px" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png">
       </td>
-    </tr>
+      <td width="25%" align="center">
+        <span>Streamlit</span><br><br>
+        <img height="47px" src="https://assets.website-files.com/5dc3b47ddc6c0c2a1af74ad0/5e18182ad27bcfbb9dff263a_RGB_Logo_Horizontal_Color_Light_Bg-p-1080.png">
+      </td>
+    </tr>    
   </tbody>
 </table>

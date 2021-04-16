@@ -20,7 +20,7 @@ Some of my solutions so far includes detect cardiovascular diseases and detect b
 
 # Data Science Projects
 
-### [Cardiovascular Disease Prediction](https://github.com/pedrofratucci/cardio_catch_diseases_webapp)
+### [Cardiovascular Disease Prediction](https://github.com/pedrofratucci/Cardio_Catch_Diseases)
 
 In this project, I developed a Machine Learning model able to detect disease in early stages with **74,75% precision**, over 70k patience.
 
@@ -28,7 +28,7 @@ This model performance, in the best case scenario, **would increase a company te
  
  
 
-### [Bank Fraud Transactions Prediction](https://github.com/pedrofratucci/cardio_catch_diseases_webapp)
+### [Bank Fraud Transactions Prediction](https://github.com/pedrofratucci/Blocker_Fraud_Company)
 
 In this project, I developed a Machine Learning model able to detect fraudulent transaction with **95,91% recall** and **97,39% precision**, over 6.3kk transactions.
 

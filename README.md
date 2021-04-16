@@ -1,13 +1,4 @@
-# Pedro's portfolio objetive
-
-This data science/analysis project portfolio purpose is to create business solutions for business chalenges through my skills and data tools knowledge.
-
-<p align='center'>
-    <img src='dashboard.png'<
-</p>
-
-
-# About me
+# About me & Contact
 **Personal life**
 
 As my bio says, I live a truly happy life. Sharing it with my family, girlfriend, friends and cats.
@@ -27,19 +18,6 @@ Some of my solutions so far includes detect cardiovascular diseases and detect b
 * [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:pedrofratucci8@hotmail.com)](mailto:pedrofratucci8@hotmail.com)
 
 
-# Analytical Tools
-
-**Data Collect and Storage:** MySQL, Postgres.
-
-**Data Processing and Analysis:** Python, VBA
-
-**Data Vizualization:** Power BI, Matplotlib, Seaborn
-
-**Machine Learning Modeling:** Classification, Regression, Clustering, Times Series
-
-**Machine Learning Deployment:** Heroku, Google Cloud Plataform
-
-
 # Data Science Projects
 
 ### [Cardiovascular Disease Prediction](https://github.com/pedrofratucci/cardio_catch_diseases_webapp)
@@ -55,7 +33,7 @@ In this project, I developed a Machine Learning model able to detect fraudulent 
 This model performance, in the best case scenario, **would create a company revenue of $ 126,908,241.73**
 
 
-# Tools
+# Analytical Tools
 
 <table>
   <tbody>
@@ -65,7 +43,7 @@ This model performance, in the best case scenario, **would create a company reve
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
       <td width="25%" align="center">
-        <span>Python</span><br><br>
+        <span>My SQL</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
       </td>
       <td width="25%" align="center">

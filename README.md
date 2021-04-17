@@ -15,7 +15,7 @@ Some of my solutions so far includes detect cardiovascular diseases and detect b
 
 **Contact:**
 * [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-henrique-fratucci-906a94172/)](https://www.linkedin.com/in/pedro-henrique-fratucci-906a94172/)
-* [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:pedrofratucci8@hotmail.com)](mailto:pedrofratucci8@hotmail.com)
+* [![Hotmail Badge](https://img.shields.io/badge/-pedrofratucci8@hotmail.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:pedrofratucci8@hotmail.com)](mailto:pedrofratucci8@hotmail.com)
 
 
 # Data Science Projects

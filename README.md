@@ -24,7 +24,7 @@ Some of my solutions so far includes detect cardiovascular diseases and detect b
 
 In this project, I developed a Machine Learning model able to detect disease in early stages with **74,75% precision**, over 70k patience.
 
-This model performance, in the best case scenario, **would increase a company test profit from R$ 500,00 to R$ 2500,00.** And would substitute a manual process by a machine learning model.
+This model performance, in the best case scenario, **would increase a company's test profit from R$ 500,00 to R$ 2500,00.** And would replace a manual process by a machine learning model.
  
  
 
@@ -32,7 +32,7 @@ This model performance, in the best case scenario, **would increase a company te
 
 In this project, I developed a Machine Learning model able to detect fraudulent transaction with **95,91% recall** and **97,39% precision**, over 6.3kk transactions.
 
-This model performance, in the best case scenario, **would create a company revenue of $ 126,908,241.73.**
+This model performance, in the best case scenario, **would create a company's revenue of $ 126,908,241.73.**
 
 
 # Analytical Tools

@@ -94,3 +94,7 @@ This model performance, in the best case scenario, **would create a company reve
     </tr>    
   </tbody>
 </table>
+
+# Visitors
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=nickolasdias.nickolasdias)

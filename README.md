@@ -97,4 +97,4 @@ This model performance, in the best case scenario, **would create a company reve
 
 # Visitors
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=nickolasdias.nickolasdias)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=pedrofratucci.pedrofratucci)

@@ -30,9 +30,9 @@ This model performance, in the best case scenario, **would increase a company's 
 
 ### [Bank Fraud Transactions Prediction](https://github.com/pedrofratucci/Blocker_Fraud_Company)
 
-In this project, I developed a Machine Learning model able to detect fraudulent transaction with **97,32% recall** and **98,76% precision**, over 6.3kk transactions.
+In this project, I developed a Machine Learning model able to detect fraudulent transaction with **97,32% recall** and **98,70% precision**, over 6.3kk transactions.
 
-This model performance, in the best case scenario, **would create a company's revenue of $ 126,908,241.73.**
+This model performance, in the best case scenario, **would create a company's revenue of $ 132,667,313.49.**
 
 
 # Analytical Tools

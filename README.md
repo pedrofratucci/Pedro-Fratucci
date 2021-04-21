@@ -8,7 +8,7 @@ As my bio says, I live a truly happy life. Sharing it with my family, girlfriend
 
 I'm a mechanical engineer graduated from UFRGS in 2020. I've been programming since 2017. 
 
-I started studying data analysis in December 2020. Since then, I've been studying all stages of developing business solution models. Staring by understanding the business problem until creating models solutions, interfaces and deploying it using Clouds plataforms.
+I started studying data analysis in December 2020. Since then, I've been studying all stages of developing business solution models. Staring by understanding the business problem until creating models solutions, interfaces and deploying it through Clouds plataforms.
 
 Some of my solutions so far includes detect cardiovascular diseases and detect bank transaction frauds, both by classification methods.
 

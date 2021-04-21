@@ -24,7 +24,7 @@ Some of my solutions so far includes detect cardiovascular diseases and detect b
 
 In this project, I developed a Machine Learning model able to detect disease in early stages with **74,35% precision**, over 70k patience.
 
-This model performance, in the best case scenario, **would increase a company's test profit from R$ 500,00 to R$ 2500,00.** And would replace a manual process by a machine learning model.
+This model performance, in the best case scenario, **would increase a company's test profit from R$ 500,00 to R$ 2500,00.** And would also replace a manual process by a machine learning model.
  
  
 

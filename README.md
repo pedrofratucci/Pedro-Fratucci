@@ -38,7 +38,7 @@ This model performance, in the best case scenario, **would increase a company's 
 
 In this project, I analyzed over 20k houses in Seattle city. I Speculated which houses the company should buy, which were the best renovation upgrades to do and when to sell them.
 
-The business performance, in the best case scenario simulated, **would create a company's revenue of $ 25,992,176.27 and a Return Over Investiment (ROI) of 0.91%.**
+The business performance, in the best case scenario simulated, **would create a company's revenue of $ 25,817,485.25 and a Return Over Investiment (ROI) of 0.92%.**
 
 
 # Analytical Tools

@@ -10,7 +10,7 @@ I'm a mechanical engineer graduated from UFRGS in 2020. I've been programming si
 
 I started studying data analysis in December 2020. Since then, I've been studying all stages of developing business solution models. Staring by understanding the business problem until creating models solutions, interfaces and deploying it through Clouds plataforms.
 
-Some of my solutions so far includes detect cardiovascular diseases and detect bank transaction frauds, both by classification methods.
+Some of my solutions so far includes detect cardiovascular diseases, detect bank transaction frauds - both by classification methods - and a deep exploratory analisys over housing market.
 
 
 **Contact:**

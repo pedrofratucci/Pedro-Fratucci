@@ -42,7 +42,7 @@ In this project, I analyzed over 20k houses in Seattle city. I Speculated which 
 
 The business performance, in the best case scenario simulated, **would create a company's revenue of $ 25,817,485.25 and a Return Over Investiment (ROI) of 92%.**
 
-I also created a web page with Streamlit. Which explain all hypotheses, business suggestions, business scenarios simulation and a interactive map to filter which house to buy.
+I also created a web page with Streamlit. Which explain all hypotheses, business suggestions, business scenarios simulation and provides an interactive map to filter, by the user demands, what house to buy.
 
 **Deploy: [Here](https://house-rocket-ph.herokuapp.com/)**
 

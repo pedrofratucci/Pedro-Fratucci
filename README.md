@@ -26,7 +26,7 @@ In this project, I developed a Machine Learning model able to detect fraudulent 
 
 This model performance, in the best case scenario, **would create a company's revenue of $ 132,667,313.49.**
 
-### [Cardiovascular Disease Prediction](https://github.com/pedrofratucci/Cardio_Catch_Diseases)
+### [Cardiovascular Diseases Prediction](https://github.com/pedrofratucci/Cardio_Catch_Diseases)
 
 In this project, I developed a Machine Learning model able to detect disease in early stages with **74,35% precision**, over 70k patience.
 

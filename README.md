@@ -26,6 +26,15 @@ In this project, I developed a Machine Learning model able to detect fraudulent 
 
 This model performance, in the best case scenario, **would create a company's revenue of $ 132,667,313.49.**
 
+### [Store Sales Prediction](https://github.com/pedrofratucci/Rossmann_Sales)
+
+In this project, I developed a Machine Learning model able to predict a store's next 6 week sales, **with an average 7% MRSPE valuefor each daily sale prediction**, with informations over 1115 stores trough 942 days.
+
+This model performance, in the best case scenario, **would predict all stores sales amount with a 2,87% error.**
+
+I also created a Telegram chatbot. Which return the expected, worst and best sales scenarios daily sales evolution graphs, for each store in the next 6 weeks.
+
+**Deploy: [Here](https://web.telegram.org/#/im?p=@pedero_rossmann_bot)**
 
 ### [Cardiovascular Disease Prediction](https://github.com/pedrofratucci/Cardio_Catch_Diseases)
 

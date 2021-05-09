@@ -10,7 +10,7 @@ I'm a mechanical engineer graduated from UFRGS in 2020. I've been programming si
 
 I started studying data analysis in December 2020. Since then, I've been studying all stages of developing business solution models. Staring by understanding the business problem until creating models solutions, interfaces and deploying it through Clouds plataforms.
 
-Some of my solutions so far includes detect cardiovascular diseases, detect bank transaction frauds - both by classification methods -, predict store's sales - by regression methods - and a deep exploratory analisys over housing market.
+Some of my solutions so far includes detect cardiovascular diseases, detect bank transaction frauds - both by classification methods -, predict stores sales - by regression methods - and a deep exploratory analisys over housing market.
 
 
 **Contact:**
@@ -48,7 +48,7 @@ I also created a web page with Streamlit. Which explain all hypotheses, business
 
 ### [Store Sales Prediction](https://github.com/pedrofratucci/Rossmann_Sales)
 
-In this project, I developed a Machine Learning model able to predict a store's next 6 week sales, **with an average 7% MRSPE value for each daily sale prediction**, with informations over 1115 stores trough 942 days.
+In this project, I developed a Machine Learning model able to predict 1115 stores next 6 week sales, **with an average 7% MRSPE value for each daily sale prediction**, with informations over 1115 stores trough 942 days.
 
 This model performance, in the best case scenario, **would predict all stores sales amount with a 2,87% error.**
 

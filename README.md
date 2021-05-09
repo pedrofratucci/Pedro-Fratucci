@@ -10,7 +10,7 @@ I'm a mechanical engineer graduated from UFRGS in 2020. I've been programming si
 
 I started studying data analysis in December 2020. Since then, I've been studying all stages of developing business solution models. Staring by understanding the business problem until creating models solutions, interfaces and deploying it through Clouds plataforms.
 
-Some of my solutions so far includes detect cardiovascular diseases, detect bank transaction frauds - both by classification methods - predict store's sales - by regression methods - and a deep exploratory analisys over housing market.
+Some of my solutions so far includes detect cardiovascular diseases, detect bank transaction frauds - both by classification methods -, predict store's sales - by regression methods - and a deep exploratory analisys over housing market.
 
 
 **Contact:**
@@ -32,7 +32,7 @@ In this project, I developed a Machine Learning model able to detect disease in 
 
 This model performance, in the best case scenario, **would increase a company's test profit from R$ 500,00 to R$ 2500,00.** And would also replace a manual process by a machine learning model.
 
-I also created a web page with Streamlit. Which predicts and return, with the user informations, he's chances of having cardiovascular diseases.
+I also created a web page with Streamlit. Which predicts and return, with the user informations, his chances of having cardiovascular diseases.
 
 **Deploy: [Here](https://cardio-catch-diseases-ph.herokuapp.com/)**
 

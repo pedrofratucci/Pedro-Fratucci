@@ -26,21 +26,13 @@ In this project, I developed a Machine Learning model able to detect fraudulent 
 
 This model performance, in the best case scenario, **would create a company's revenue of $ 132,667,313.49.**
 
-### [Store Sales Prediction](https://github.com/pedrofratucci/Rossmann_Sales)
-
-In this project, I developed a Machine Learning model able to predict a store's next 6 week sales, **with an average 7% MRSPE valuefor each daily sale prediction**, with informations over 1115 stores trough 942 days.
-
-This model performance, in the best case scenario, **would predict all stores sales amount with a 2,87% error.**
-
-I also created a Telegram chatbot. Which return the expected, worst and best sales scenarios daily sales evolution graphs, for each store in the next 6 weeks.
-
-**Deploy: [Here](https://web.telegram.org/#/im?p=@pedero_rossmann_bot)**
-
 ### [Cardiovascular Disease Prediction](https://github.com/pedrofratucci/Cardio_Catch_Diseases)
 
 In this project, I developed a Machine Learning model able to detect disease in early stages with **74,35% precision**, over 70k patience.
 
 This model performance, in the best case scenario, **would increase a company's test profit from R$ 500,00 to R$ 2500,00.** And would also replace a manual process by a machine learning model.
+
+I also created a web page with Streamlit. Which predicts and return, with the user informations, he's chances of having cardiovascular diseases.
 
 **Deploy: [Here](https://cardio-catch-diseases-ph.herokuapp.com/)**
 
@@ -50,7 +42,19 @@ In this project, I analyzed over 20k houses in Seattle city. I Speculated which 
 
 The business performance, in the best case scenario simulated, **would create a company's revenue of $ 25,817,485.25 and a Return Over Investiment (ROI) of 92%.**
 
+I also created a web page with Streamlit. Which explain all hypotheses, business suggestions, business scenarios simulation and a interactive map to filter which house to buy.
+
 **Deploy: [Here](https://house-rocket-ph.herokuapp.com/)**
+
+### [Store Sales Prediction](https://github.com/pedrofratucci/Rossmann_Sales)
+
+In this project, I developed a Machine Learning model able to predict a store's next 6 week sales, **with an average 7% MRSPE valuefor each daily sale prediction**, with informations over 1115 stores trough 942 days.
+
+This model performance, in the best case scenario, **would predict all stores sales amount with a 2,87% error.**
+
+I also created a Telegram chatbot. Which return the expected, worst and best sales scenarios daily sales evolution graphs, for each store in the next 6 weeks.
+
+**Deploy: [Here](https://web.telegram.org/#/im?p=@pedero_rossmann_bot)**
 
 # Analytical Tools
 
